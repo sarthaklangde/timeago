@@ -1,4 +1,5 @@
 Copyright (c) 2008-2013 Ryan McGeary
+Copyright (c) 2013 Christian Johansen
 
 MIT License
 
