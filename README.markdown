@@ -47,5 +47,5 @@ Un-jQuery-fication by [Christian Johansen](http://cjohansen.no) ([@cjno](http://
 
 [MIT License](http://www.opensource.org/licenses/mit-license.php)
 
-Copyright (c) 2008-2013, Ryan McGeary (ryan -[at]- mcgeary [*dot*] org)
+Copyright (c) 2008-2013, Ryan McGeary (ryan -[at]- mcgeary [*dot*] org)<br>
 Copyright (c) 2013, Christian Johansen (christian@cjohansen.no)
